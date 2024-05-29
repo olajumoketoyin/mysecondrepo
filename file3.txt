@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 file3.txt addition on master branch
+=======
+<<<<<<< HEAD
+creating a new file for the new branch
+=======
+file3.txt addition on master branch
+>>>>>>> 62425fe (added file3 on master branch)
+>>>>>>> 9528140 (addition from master)
